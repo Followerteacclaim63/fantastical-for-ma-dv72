@@ -1,4 +1,4 @@
-#  
+#  Enhance Fantastical for macOS with secure Utility for Fantastical for macOS - note encryption and cloud backup, the #1 utility. Includes note encryption and cloud backup for a
 
 
 
